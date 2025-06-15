@@ -1,0 +1,309 @@
+## 2025-05-03T10:59:38+00:00
+
+## 2025-05-13T19:10:04+00:00
+
+## 2025-05-13T19:11:19+00:00
+
+## 2025-05-13T19:11:34+00:00
+
+## 2025-05-14T19:01:27+00:00
+
+## 2025-05-14T19:02:03+00:00
+
+## 2025-05-14T19:03:50+00:00
+
+## 2025-05-14T19:04:03+00:00
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:nginx:nginx
+[+] product: nginx
+[+] version: 1.21.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2023-44487    	cvss_v2: nil  	cvss_v3: 7.5  
+[-] 	id: CVE-2022-41742    	cvss_v2: nil  	cvss_v3: 7.1  
+[-] 	id: CVE-2022-41741    	cvss_v2: nil  	cvss_v3: 7.0  
+-------------------------------------------------
+
+## 2025-05-14T19:22:14+00:00
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:nginx:nginx
+[+] product: nginx
+[+] version: 1.21.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2023-44487    	cvss_v2: nil  	cvss_v3: 7.5  
+[-] 	id: CVE-2022-41742    	cvss_v2: nil  	cvss_v3: 7.1  
+[-] 	id: CVE-2022-41741    	cvss_v2: nil  	cvss_v3: 7.0  
+-------------------------------------------------
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:jquery:jquery
+[+] product: jquery
+[+] version: 1.7.1
+[+] vupdate: *
+[+] cves: 6
+[-] 	id: CVE-2020-11023    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-11022    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2015-9251     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2020-7656     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2012-6708     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2019-11358    	cvss_v2: 4.3  	cvss_v3: 6.1  
+-------------------------------------------------
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:jquery:jquery
+[+] product: jquery
+[+] version: 3.3.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2020-11023    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-11022    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2019-11358    	cvss_v2: 4.3  	cvss_v3: 6.1  
+-------------------------------------------------
+
+## 2025-05-14T19:25:52+00:00
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:jquery:jquery
+[+] product: jquery
+[+] version: 1.7.1
+[+] vupdate: *
+[+] cves: 6
+[-] 	id: CVE-2020-11022    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-11023    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-7656     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2015-9251     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2019-11358    	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2012-6708     	cvss_v2: 4.3  	cvss_v3: 6.1  
+-------------------------------------------------
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:jquery:jquery
+[+] product: jquery
+[+] version: 3.3.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2020-11022    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-11023    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2019-11358    	cvss_v2: 4.3  	cvss_v3: 6.1  
+-------------------------------------------------
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:nginx:nginx
+[+] product: nginx
+[+] version: 1.21.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2023-44487    	cvss_v2: nil  	cvss_v3: 7.5  
+[-] 	id: CVE-2022-41742    	cvss_v2: nil  	cvss_v3: 7.1  
+[-] 	id: CVE-2022-41741    	cvss_v2: nil  	cvss_v3: 7.0  
+-------------------------------------------------
+
+## 2025-05-14T19:35:37+00:00
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:nginx:nginx
+[+] product: nginx
+[+] version: 1.21.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2023-44487    	cvss_v2: nil  	cvss_v3: 7.5  
+[-] 	id: CVE-2022-41742    	cvss_v2: nil  	cvss_v3: 7.1  
+[-] 	id: CVE-2022-41741    	cvss_v2: nil  	cvss_v3: 7.0  
+-------------------------------------------------
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:jquery:jquery
+[+] product: jquery
+[+] version: 1.7.1
+[+] vupdate: *
+[+] cves: 6
+[-] 	id: CVE-2020-11022    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-11023    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2015-9251     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2019-11358    	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2020-7656     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2012-6708     	cvss_v2: 4.3  	cvss_v3: 6.1  
+-------------------------------------------------
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:jquery:jquery
+[+] product: jquery
+[+] version: 3.3.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2020-11023    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-11022    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2019-11358    	cvss_v2: 4.3  	cvss_v3: 6.1  
+-------------------------------------------------
+
+## 2025-05-14T19:41:29+00:00
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:nginx:nginx
+[+] product: nginx
+[+] version: 1.21.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2023-44487    	cvss_v2: nil  	cvss_v3: 7.5  
+[-] 	id: CVE-2022-41742    	cvss_v2: nil  	cvss_v3: 7.1  
+[-] 	id: CVE-2022-41741    	cvss_v2: nil  	cvss_v3: 7.0  
+-------------------------------------------------
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:jquery:jquery
+[+] product: jquery
+[+] version: 3.3.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2020-11022    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-11023    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2019-11358    	cvss_v2: 4.3  	cvss_v3: 6.1  
+-------------------------------------------------
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:jquery:jquery
+[+] product: jquery
+[+] version: 1.7.1
+[+] vupdate: *
+[+] cves: 6
+[-] 	id: CVE-2020-11022    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-11023    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2019-11358    	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2015-9251     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2012-6708     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2020-7656     	cvss_v2: 4.3  	cvss_v3: 6.1  
+-------------------------------------------------
+
+## 2025-05-14T19:44:29+00:00
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:nginx:nginx
+[+] product: nginx
+[+] version: 1.21.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2023-44487    	cvss_v2: nil  	cvss_v3: 7.5  
+[-] 	id: CVE-2022-41742    	cvss_v2: nil  	cvss_v3: 7.1  
+[-] 	id: CVE-2022-41741    	cvss_v2: nil  	cvss_v3: 7.0  
+-------------------------------------------------
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:jquery:jquery
+[+] product: jquery
+[+] version: 3.3.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2020-11023    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-11022    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2019-11358    	cvss_v2: 4.3  	cvss_v3: 6.1  
+-------------------------------------------------
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:jquery:jquery
+[+] product: jquery
+[+] version: 1.7.1
+[+] vupdate: *
+[+] cves: 6
+[-] 	id: CVE-2020-11023    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-11022    	cvss_v2: 4.3  	cvss_v3: 6.9  
+[-] 	id: CVE-2020-7656     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2012-6708     	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2019-11358    	cvss_v2: 4.3  	cvss_v3: 6.1  
+[-] 	id: CVE-2015-9251     	cvss_v2: 4.3  	cvss_v3: 6.1  
+-------------------------------------------------
+
+## 2025-05-15T03:14:07+00:00
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:nginx:nginx
+[+] product: nginx
+[+] version: 1.21.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2023-44487    	cvss_v2: nil  	cvss_v3: 7.5  
+[-] 	id: CVE-2022-41742    	cvss_v2: nil  	cvss_v3: 7.1  
+[-] 	id: CVE-2022-41741    	cvss_v2: nil  	cvss_v3: 7.0  
+-------------------------------------------------
+
+## 2025-05-15T03:49:15+00:00
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:nginx:nginx
+[+] product: nginx
+[+] version: 1.21.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2023-44487    	cvss_v2: nil  	cvss_v3: 7.5  
+[-] 	id: CVE-2022-41742    	cvss_v2: nil  	cvss_v3: 7.1  
+[-] 	id: CVE-2022-41741    	cvss_v2: nil  	cvss_v3: 7.0  
+-------------------------------------------------
+
+## 2025-05-15T03:52:41+00:00
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:nginx:nginx
+[+] product: nginx
+[+] version: 1.21.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2023-44487    	cvss_v2: nil  	cvss_v3: 7.5  
+[-] 	id: CVE-2022-41742    	cvss_v2: nil  	cvss_v3: 7.1  
+[-] 	id: CVE-2022-41741    	cvss_v2: nil  	cvss_v3: 7.0  
+-------------------------------------------------
+
+## 2025-05-15T03:56:35+00:00
+[*] host: 217.172.24.145
+[*] port: 80
+[+] protocol: tcp
+[+] service: http
+[+] cpe: cpe:/a:nginx:nginx
+[+] product: nginx
+[+] version: 1.21.1
+[+] vupdate: *
+[+] cves: 3
+[-] 	id: CVE-2023-44487    	cvss_v2: nil  	cvss_v3: 7.5  
+[-] 	id: CVE-2022-41742    	cvss_v2: nil  	cvss_v3: 7.1  
+[-] 	id: CVE-2022-41741    	cvss_v2: nil  	cvss_v3: 7.0  
+-------------------------------------------------
+
